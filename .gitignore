@@ -1,0 +1,12 @@
+/dist
+/node_modules
+/build
+/coverage
+*.tsbuildinfo
+*.log
+.DS_Store
+
+# variables de entorno (nunca se suben)
+.env
+.env.*
+!.env.example
